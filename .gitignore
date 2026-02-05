@@ -1,0 +1,31 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Dataset (auto-downloaded CIFAR-10)
+data/
+
+# Saved models (if added later)
+*.pth
+*.pt
+*.pkl
+
+# Logs / outputs
+logs/
+outputs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Environment variables
+.env
